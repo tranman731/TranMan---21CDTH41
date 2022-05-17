@@ -1,0 +1,72 @@
+body{
+        -webkit-animation: colorchange 60s infinite; 
+        animation: colorchange 60s infinite;
+    }
+    @-webkit-keyframes colorchange {
+         0%  {background: #d2f706;}
+        25%  {background: #78281F;}
+        50%  {background: #117A65;}
+        75%  {background: #1d0364;}
+        100% {background: #9B59B6;}
+    }
+    @keyframes colorchange {
+         0%  {background: #33FFF3;}
+        25%  {background: #e44055;}
+        50%  {background: #117A65;}
+        75%  {background: #ca06a0;}
+        100% {background: #3f0357;}
+    }   
+    h1  {
+        color: rgb(191, 240, 16);
+        font-size: 50px;
+        text-align: center;
+        margin-top: 100px;
+    }
+   
+    .wrapper{
+        width: 980px;
+        margin: auto;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        background-color:#d9eaeb;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .wrapper{
+        width: 980px;
+        margin: auto;
+    }
+    .logo{
+        background-color:#c7d6cc;
+        height: 100px;
+        display: flex;
+    }
+    .menu ul li{
+        float: left;
+        list-style: none;
+        line-height: 70px;
+        padding: 0px 15px;
+        
+    }
+    .menu ul li a{
+        font-size: 18px;
+        color: #3c3c3e;
+        text-decoration: none;
+        display: block;
+    
+    }
+    .dk{
+        margin-left: 700px;
+        line-height: 70px;
+    }
+    input#dk{
+        width: 90px;
+        height: 20px;
+        color: antiquewhite;
+        background-color: rgb(240, 12, 118);
+        border: 0.5px solid white;
+    }

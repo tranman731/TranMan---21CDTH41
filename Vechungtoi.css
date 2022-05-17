@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#d9eaeb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    width: 980px;
+    margin: auto;
+}
+.logo{
+    background-color:#d9eaeb;
+    height: 100px;
+    display: flex;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    line-height: 70px;
+    padding: 0px 15px;
+    
+}
+.menu ul li a{
+    font-size: 18px;
+    color: #3c3c3e;
+    text-decoration: none;
+    display: block;
+
+}
+.dk{
+    margin-left: 700px;
+    line-height: 70px;
+}
+input#dk{
+    width: 90px;
+    height: 20px;
+    color: antiquewhite;
+    background-color: rgb(240, 12, 118);
+    border: 0.5px solid white;
+}
+.nav {
+      height: 200px;
+      width: 100%;
+  }
+#nav1 {
+    background-color: blue;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#nav1 img {
+    width: 100%;
+    height: 100%;
+}
+#nav2 {
+    background-color: rgb(16, 255, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#nav2 img {
+    width: 100%;
+    height: 100%;
+}
+#nav3 {
+    background-color: rgb(211, 255, 16);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 34%;
+    float: left;  
+}
+#nav3 img {
+    width: 100%;
+    height: 100%;
+}
+#nav4 {
+    background-color: rgb(30, 255, 9);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#nav4 img {
+    width: 100%;
+    height: 100%;
+}
+#nav5 {
+    background-color: rgb(41, 6, 241);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#nav5 img {
+    width: 100%;
+    height: 100%;
+}
+.hang2 {
+    height: 200px;
+    width: 100%;
+}
+#hang21 {
+    background-color: rgb(250, 21, 117);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang21 img {
+    width: 100%;
+    height: 100%;
+}
+#hang22 {
+    background-color: rgb(16, 255, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang22 img {
+    width: 100%;
+    height: 100%;
+}
+#hang23 {
+    background-color: rgb(211, 255, 16);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang23 img {
+    width: 100%;
+    height: 100%;
+}
+#hang24 {
+    background-color: rgb(30, 255, 9);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 18%;
+    float: left;  
+}
+#hang24 img {
+    width: 100%;
+    height: 100%;
+}
+#hang25 {
+    background-color: rgb(247, 1, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 31%;
+    float: left;  
+}
+#hang25 img {
+    width: 100%;
+    height: 100%;
+}
+.hang3 {
+    height: 200px;
+    width: 100%;
+}
+#hang31 {
+    background-color: rgb(247, 1, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang31 img {
+    width: 100%;
+    height: 100%;
+}
+#hang32 {
+    background-color: rgb(247, 1, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang32 img {
+    width: 100%;
+    height: 100%;
+}
+#hang33 {
+    background-color: rgb(247, 1, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 34%;
+    float: left;  
+}
+#hang33 img {
+    width: 100%;
+    height: 100%;
+}
+#hang34 {
+    background-color: rgb(247, 1, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang34 img {
+    width: 100%;
+    height: 100%;
+}
+#hang35 {
+    background-color: rgb(247, 1, 255);
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 15%;
+    float: left;  
+}
+#hang35 img {
+    width: 100%;
+    height: 100%;
+}
+.hang4 {
+    margin-top: 30px;
+    background-color: #1bace6;
+    color: #58257b;
+    padding: 100px;
+    
+    
+}

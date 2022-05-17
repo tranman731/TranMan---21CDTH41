@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#d9eaeb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    width: 980px;
+    margin: auto;
+}
+.logo{
+    background-color:#d9eaeb;
+    height: 100px;
+    display: flex;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    line-height: 70px;
+    padding: 0px 15px;
+    
+}
+.menu ul li a{
+    font-size: 18px;
+    color: #3c3c3e;
+    text-decoration: none;
+    display: block;
+
+}
+.dk{
+    margin-left: 700px;
+    line-height: 70px;
+}
+input#dk{
+    width: 90px;
+    height: 20px;
+    color: antiquewhite;
+    background-color: rgb(240, 12, 118);
+    border: 0.5px solid white;
+}
+.banner{
+    width: 100%;
+    height: 30%;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+aside{
+    font-family: monospace;
+    margin-top: 30px;
+    min-height: 400px;
+    width: 25%;
+    background-color: #d9eaeb;
+    float: left;
+    font-size: 18px;
+}
+article{
+    font-family: monospace;
+    font-size: 16px;
+    margin-top: 30px;
+    width: 75%;
+    float: left;
+    background-color: #d9eaeb;
+    min-height: 400px;
+}
+article img{
+    height: 150px;
+    width: 220px;
+    border-radius: 10px;
+}
+.monan{ 
+    float: left;
+    margin-right: 25px;
+
+}
+.monan1{
+    float: left;
+    margin-right: 300px;
+}
+.menu ul li a:hover{
+    background: orange;
+    margin-left: 10px;
+    
+}
+.banner img:hover{
+    opacity: 0.85;
+}
+.monan img:hover{
+    opacity: 0.80;
+}
+.monan1 img:hover{
+    opacity: 0.80;
+}
+.menu ul li a:hover{
+    text-decoration: underline;
+}
+input#dk:hover{
+    background: linear-gradient(70deg,#03e6f5,#f471b5,#feeb3e,#03b3f8); 
+}
+.H1{
+    background-color: #f50303;
+}
